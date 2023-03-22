@@ -1,0 +1,18 @@
+.App {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #f3f7fa;
+    font-family: "Open Sans", sans-serif;
+}
+  
+.App_Link {
+    color: #61dafb;
+}
+  
+.Main {
+    display: grid;
+    grid-template-columns: 232px 502px;
+    margin: 0 auto;
+    gap: 20px;
+}
